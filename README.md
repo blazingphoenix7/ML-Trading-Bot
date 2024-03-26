@@ -29,7 +29,7 @@ To run the notebook, you will need to install several Python packages, including
 
 ## Usage
 
-You can run the notebook directly on Google Colab using the provided link at the top of this README. It allows you to execute the code and see the results in an interactive environment without any local setup.
+You can run the notebook directly on your machine. It allows you to execute the code and see the results in an interactive environment as the file handles almost all necessary imports and setup.
 
 ## Contributing
 
